@@ -6,7 +6,7 @@
   "imageContainer": {
     "name": "imageContainer",
     "connector": "loopback-component-storage",
-    "provider": "filesystem", 
+    "provider": "filesystem",
     "root": "./server/storage"
   }
 }

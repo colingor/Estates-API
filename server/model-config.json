@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "image": {
+    "dataSource": "imageContainer",
+    "public": true
   }
 }
